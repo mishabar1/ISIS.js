@@ -1,8 +1,10 @@
-ISIS.js
+SuicideBomber
 =======
 
-ISIS.js - injects islamic motivation into the console, removes the \<head\> tag, and blames america.
+console.log('Allah-o-Akbar');
+document.body.innerHTML = '';
+console.log('BOOOM!');
 
-All rights reserved.
+תקוף, תעשה ביגוים !!!
 
 
